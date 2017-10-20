@@ -2,7 +2,7 @@
 
 ### IUT d’Aix-Marseille – Département Informatique Aix-en-Provence
 
-# TP2 : Patrons de conception
+# TP2 : Patrons de conception (Composite, Itérateur)
 
 
 * Le support du cours est disponible [ici](https://github.com/IUTInfoAix-M3105/Ressources)
